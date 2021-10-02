@@ -1,4 +1,2 @@
-# templateadmin
-Template admin
-
-Dashboard Learning
+# Template Admin
+Dashboard FOR Learning
